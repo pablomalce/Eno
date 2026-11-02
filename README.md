@@ -12,7 +12,7 @@ The whole repository is one commit from February 2021 by Pablo Malczewski. Nothi
 - A shared sticky navbar and footer, repeated by hand on every page. There is no templating or build step.
 - Responsive layout built on Bootstrap's grid, plus per-section stylesheets in `style/componentes/`.
 
-Known gaps: the "¿Dónde comprar ENO?" (where to buy) link points to `donde_comprar_eno.html` on some pages and to the FAQ page on others. The first page does not exist, and `style/componentes/donde_comprar.css` is empty.
+Known gaps: the "¿Dónde comprar ENO?" (where to buy) link points to `donde_comprar_eno.html` on some pages and to the FAQ page on others. `donde_comprar_eno.html` does not exist, and `style/componentes/donde_comprar.css` is empty.
 
 ## Stack
 
